@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation touching the present state and condition of Ireland. Collected by a committee of the house of Commons, out of severall letters, lately come from the Lords Justices of Ireland and others, and printed by order of the said house. And also the examination of Hubert Petit, taken the 19. of February, 1641. by the direction of the Lords Justices, and counsell of Ireland.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83814</idno><idno type="EEBO-CITATION">99871324</idno>
+  <idno type="VID">156524</idno>
+  <idno type="EEBO-PROQUEST">2240929067</idno>
+  
+            <idno type="STC">Wing E2699A</idno>
+            <idno type="STC">Thomason E138_22</idno>
+            <idno type="STC">ESTC R212748</idno>
+            <idno type="PROQUEST">99871324</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871324e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156524)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation touching the present state and condition of Ireland. Collected by a committee of the house of Commons, out of severall letters, lately come from the Lords Justices of Ireland and others, and printed by order of the said house. And also the examination of Hubert Petit, taken the 19. of February, 1641. by the direction of the Lords Justices, and counsell of Ireland.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for Richard Best, and are to be sold at his shop within Grayes Inne Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1641[2]; Thomason catalogue lists under 1642.</note>
+                  <note>The letters are dated 22 February to 11 March.</note>
+                  <note>Imperfect; trimmed at foot, affecting imprint and text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Petit, Hubert --  Early works to 1800.</term>
+               <term type="corporate_name">Ireland (Lords justices and Council) --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156524:1"/>
+            <p> A RELATION TOUCHING The present state and condition OF IRELAND.</p>
+            <p>Collected by a Committee of the house of Commons, out of severall letters, lately come from the Lords Justices of Ireland and others, and Printed by order of the said House.</p>
+            <p>And also the Examination of <hi>Hubert Petit,</hi> taken the 19. of <hi>February,</hi> 1641. by the direction of the Lords Justices, and Counsell of <hi>Ireland.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> G▪</hi> for <hi>Richard <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est▪</hi> and are to be sold at his shop <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:156524:2"/>
+            <head>
+               <hi>Dublin.</hi> 22. <hi>February</hi> 1641.</head>
+            <p>THis day about one of the clock sir Richard Greenewill arrived, and lan<g ref="char:EOLhyphen"/>ded at Dublin together with the Lord Greenwills Regiment, and foure troopes of his Colonells under his charge: but through want of suffici<g ref="char:EOLhyphen"/>ent shipping, they left behind them about 20. Horse, and 60 Foote, for which also there was shipping to be speedily made ready.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>Cork</hi> 24. <hi>Febuary</hi> 1641.</head>
+            <p>THat the Lords Mountgarret, Ikerim, Dunboyne, Cathui, Castleconel, with all the Gentry of the Counties of Tipperary &amp; Limerick, and the Lemster forces (being met together at Casshell to consult of the meanes of the defeating fir William S<seg rend="sup">t</seg>. L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger Lord president of Munster) did in pursuit of their malitious de<g ref="char:EOLhyphen"/>signes, advance as far as the Mountaines, which part the Counties of Cork and Lim<g ref="char:EOLhyphen"/>rick, where the said Lord president of Munster attended upon them with the small handfull of men he had for the space of 7 or 8 dayes, with an hope to have given impediment to their further progresse, but perceiving the extraordinary great dis<g ref="char:EOLhyphen"/>proportion of their numbers; he thought it not safe to venture the lives of these few against so many, whereupon he made his returne to Cork, where he was like to be extremely distressed for want of moneys; albeit for the present he had bor<g ref="char:EOLhyphen"/>rowed a moneths meanes of the Corporation for them.</p>
+            <p>The Hart Pinnace arrived at King-sale on Saturday last, with supplyes for his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties Ship the Swallow, which the sayd Lord President caused to be fit<g ref="char:EOLhyphen"/>ted for Sea. The Pinnace brings word of 5 Ships more of his Majesties, and 7 Mer<g ref="char:EOLhyphen"/>chants Ships designed to follow speedily for the Gard of this Coast, with a Fleete of Hollanders.</p>
+         </div>
+         <div type="account">
+            <head>1641. <hi>The</hi> 24 <hi>of Feb. in Kinsall.</hi>
+            </head>
+            <p>THe Genea Ships are still in port by reason of contrary winds; sometimes they are stayd by Captaine Kettlby to serve the King, and when the wind is contrary, released the complaints here are most miserable, they have done all they can, the most inhumane and trecherous acts that everwere committed by a rebellious Na<g ref="char:EOLhyphen"/>tion to innocent people; They have not left an Englishman living within the walls worth a Cow, Sheep or Hog, in driving Sheep with young they have ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led both, the wayes ful of dead Karcasses, so with al other Cattell, beyond the expressions of cruelty. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut within these few dayes we have killed and hanged many of them, our Troops dispatch▪ good stoore of them, the rest (brought in) receive their de<g ref="char:EOLhyphen"/>servings. Our neighbours of Bandon made a sally forth of the Town about <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes since, an 120 men encountred with 600, slew and mortally wounded them, not 10 escaping without the losse of a man of ours. When we have but 10 Horse we feare not to attemptan 100 of them, but they are an 100 for one, only God is on our side, and all things wil fal out for the best, whiles we make the right use of it.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>Dublin</hi> 27. <hi>of Feb.</hi> 1641,</head>
+            <p>On Thursday last early▪ my Lord of Or<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:156524:2"/> Dun Shaughlin Castle where the Rebels (about 3000 men) expected them in a very fast place in a Wood being commanded by 4 of their ablest Captaines, and they did freely defend themselves some hours, but at last they al fled that so could. In this service was slaine of the Rebels about 160 men. and also of my Lords party Cap<g ref="char:EOLhyphen"/>taine Rochford and 4 Souldiers, and about 8 men were hurt. The same day my Lord of Ormond not willing to let sir Richard Grenwill goe with him, sir Richard Geen<g ref="char:EOLhyphen"/>will marched with 100 Horse another way about 10 miles towards Munster, but could not find any of the Rebels within distance to be attached, for they kept the Hills within sight, but 600 men where no Horse could come at them; but at his returne he brought away with him about 100 of their Horse and Cowes to flesh his men therewith. This day Captaine Stut<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld arrived here being returned from Tredath, which is now relieved for about 7 weeks more.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>Dublin the</hi> 4. <hi>of March,</hi> 1641, <hi>From the Lords, Iustices of Ireland,</hi>
+            </head>
+            <p>THe proclamations from the Kings Maiesty, requiring the Rebels immediat<g ref="char:EOLhyphen"/>ly to lay downe their armes, and in case they faile so to doe, then requiring the Lords Iustices to prosecute them with fire and Sword, as Traytors against his Majesties Royall person, and enemies to the crowne of England and Ireland, have beene proclamed in the severall parts of Ireland, yet no effect at all is found there<g ref="char:EOLhyphen"/>of further then to confirme this beleefe, that they are universally so hardened in their wickednesse, and so fast bound to their resolution, to extirpate the Brittish and Protestants, and to take the Kings authority wholy into their owne hands, that there is no way of honour, and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rme securitie left to his Majestie, and the King<g ref="char:EOLhyphen"/>dome of England but by the Sword, and that with speed; before the commanders Armes and Munition, which they expect from forraigne parts, arrive in Ireland.</p>
+            <p>The Rebels have lately taken a new oath of confederacy in their detestable cour<g ref="char:EOLhyphen"/>ses against the King and his good people, the Brittish whom they declare to hold in great detestation.</p>
+            <p>In the meane time, all fit opportunities are taken to fall upon the Rebells in their quarters; Astrong party of them being gathered together within 5. miles of Dub<g ref="char:EOLhyphen"/>lin towards the Birnes Country, on the 12 of February last; the Earle of Ormond Lievtenant generall of the army, by the directions of the Lords Iustices sent out 800 foot, and about 200. Horse, under the Command of the Lord Lambert, to encoun<g ref="char:EOLhyphen"/>ter them; he found their strength to bee about 1000. men, yet he fought with them, and in the end routed and put them to flight, slew about 100. of them, and tooke 19. prisoners in that Service, not one man lost on our side.</p>
+            <p>Afterwards there being 3000 of the Rebells, and divers of their best Comman<g ref="char:EOLhyphen"/>ders within seaven miles of Dublin, at a Castle called Kilsalghan, a place of great strength, in regard of woods, and many high Ditches and strong inclosures, and Barricadoes there made, and other fastnesses, upon which they confidently relyed:</p>
+            <p>The Lievtenant generall in his owne person attended by the Lord Lambert, Sir Charles Coot, Sir Simon Harcourt, Sir Thomas Lucas, and other Commanders went out with 2500 foot, and 300. horse, with foure field peeces to burne there<g ref="char:EOLhyphen"/>abouts where the Rebels lay dispersed, hoping thereby to provoke the Rebels to leave their strength, or to give them fight, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut they held themselves close to their holds and advantages, yet even there our forces did fall upon them, and bravely and resolutely forced the Rebels from those fastnesses and put the to flight, ha<g ref="char:EOLhyphen"/>ving slaine divers of them, with some small losse of men also on our side.</p>
+            <pb n="4" facs="tcp:156524:3"/>
+            <p> That Nicholas Barnwall a Gentleman of Eminent quality in the County of Dublin is now in England, one of his daughters is married to the Earle of Fingall, and another to Lord Viscount Gormanston, two principall Lords of the Pale now in Rebellion, and Luke Newternil, and Roger alias Rory O Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, two notable Rebells, and great Ring leaders therein, are married to two Sisters of the said Barnwall. He went from thence into England; by the licence of the Lords Iusti<g ref="char:EOLhyphen"/>ces in the beginning of this Rebellion, and he now remaines there with many o<g ref="char:EOLhyphen"/>thers from Ireland of that profession, and therefore to prevent all prejudice, that may arise by misreports from him and others, and that the same may not worke to the retarding of succours from England, or any other way, to the disappointment of the generall services of the King and Kingdome, tis desired by the Lords Iusti<g ref="char:EOLhyphen"/>ces, that no credit be given to any that pretend the knowledge of affaires in Ireland unlesse their relation appeare by letters, from publique authority, or unlesse particularly imployed by his Majesties publique Ministers. Some pamphlets con<g ref="char:EOLhyphen"/>cerning Ireland, have lately beene Printed in England, wherein are intollerable falshoods, and amongst the rest, some passages reflecting upon the Earle of Or<g ref="char:EOLhyphen"/>mond, Lievtenant Generall of this Army, a person of great honour and worth, who carries himselfe very faithfully in his Majesties publique and private services here, And therefore the said Lords Iustices, desire that a course may be taken to prevent the too great liberty taken in this kind by those Printers.</p>
+            <p>The contrivers of this Rebellion, begun to act first in Ireland, yet their aymes and purposes were, when that was subdued, to powre in great forces from thence into England. This doubtlesse they would have attempted before this time, if God in mercy to both kingdomes, had not prevented the surprisall of the Castle of Dublin, upon the 23. of October last; And if yet they can by any possibility sub<g ref="char:EOLhyphen"/>due Ireland, their desires and intentions are to make England the seat of the war, whence each man may easily Iudge, how needfull it is for the Kingdome of Eng<g ref="char:EOLhyphen"/>land, in piety to Gods truth and true Religion, and in wisdome to themselves, to helpe powerfully and speedily to suppresse those Rebells, whilst they are at this distance from them, &amp; no nearer yet to their Divellish purposes against that king<g ref="char:EOLhyphen"/>dome, then acting in Ireland, those things which lead in order, to what their Contrivances and plots, have beene against England.</p>
+            <p>That the returnes from England to Ireland are very slow and not so fall as a cause of so high a nature requires, whereupon depends no lesse then the present peace of one, and the future safety of three Kingdomes,</p>
+            <p>They are resolved to send 3000. foot, and 500. horse the next weeke into the Pale, to burne, spoyle, and destroy the Rebells there, and perhaps to beate off the Rebells, from before Drogheda; which they do, the rather, in regard this Rebelli<g ref="char:EOLhyphen"/>on had its first root from the Pale.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>Dublin</hi> 4. <hi>of March.</hi> 1641.</head>
+            <p>IN the County of Roscoman, the English have lost their whole estates, but they have so joyned together as they are able to march in most places of that County, and burne and spoyle all about them. Sir Charles Coote the younger, fir George St. George from Drumr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usk, Captaine King from Boyle, and the Captaine in the Castle of Roscoman, and others in Elphin have burned up within 5 miles of Ath<g ref="char:EOLhyphen"/>lone, the Kellyes which begirt Athlone, made after them, which gave my Lord Pre<g ref="char:EOLhyphen"/>sident
+<pb n="5" facs="tcp:156524:3"/> opportunity, with sir Edward Povy to fly out and burne and spoyle that part of the Barrony which lay neere Athlone. The English have killed Owen mac Darmot, and taken Bryan mac Darmo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t prisoner, and they certainely say, William Omaloy, sir Thomas Dillon lives in the Towne of Athlone, and they say hath not with h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m above 80 men besides the Towns-men, but when he first came into that Town, he brought above 300 with him, and pillaged al the English there: its thought that want of money is like to breed feareful distractions in the Army, if not prevented by a most speedy and ample supply.</p>
+         </div>
+         <div type="account">
+            <head>From Dublin the fifth of March. 1641.</head>
+            <p>SIr Henry Titchborne and the Garrison at Drogheda, have most nobly behaved themselves against the Common Enemy their beseigers, and the beseigers grow very impatient of their stay there, and wil (as is conceived) raise from that seige be<g ref="char:EOLhyphen"/>fore ten dayes come about.</p>
+            <p>The Lords of the Pale doe now wish they had never entred into this action, and it is thought they will very shortly and speedily be overcome, and their Country laid wast.</p>
+            <p>The Lord Caulfeild was most barbarously and inhumanly murthered, at sir Phelim Oneale his house where he was a prisoner, he was shot dead with a brace of Bullets by a foster brother of sir Phelim Oneales, when sir Phelim was from home. Sir Phelim Oneale at his returne home caused his foster bother, and 2 or 3 villeins more to be hanged, who were conspirators in the death of the Lord Caulfeild.</p>
+            <p>Our friends in the County of Roscoman doe stand stiffly to their tackli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, and the Garisons of the Boyle of Carrick Drumtursky, of Iames Town, of Elphim, and of Castle Cook doe oftentimes meete altogether at a place appointed, and agreed upon by themselves, and doe burne and spoyle the Enemies Country very notably.</p>
+            <p>Mr Dermot, and William Omolloyes eldest sonne are taken prisoners by Cap<g ref="char:EOLhyphen"/>taine King, and doe remaine in the Boyle.</p>
+         </div>
+         <div type="account">
+            <head>Dublin Castle the eighth of March. 1641.</head>
+            <p>LAst Sunday arrived a gentleman from my Lord President of Munster, who took ship at Kingsale on Friday, there arrived there newly before 5 Ships, one be<g ref="char:EOLhyphen"/>ing a Ship royall, the other 4 were men of war, also two from London and two frō Bristoll bearing the Kings Colours, and set forth for defence of these Coasts, two more he sayth be sent towards Carlingford, and 30 more expected with the first joyned. This and sir Charles Vavasors landing the same joyned with his Regiment of 1500 men at Yough-hall, revives the Lord President againe who before had put himselfe with most of the strength he had into Cork to save that place as well as himselfe from the Lord Mountgarrat, and Purcell Baron of Loghmay, who to<g ref="char:EOLhyphen"/>gether with a great Army marched into the County of Cork where they have pil<g ref="char:EOLhyphen"/>laged all the Country not leaving an Englishman unrobbed. of whatsoever was without doores. They have taken no walled Town nor any Castle, that is yet heard of, but the little Castle at Mallow, which they fired, but durst not attempt the great Castle which hath secured most part of the Towne from firing. It seemes the Rebels of those parts assisted them, for this gentleman told the Lord Chiefe Iustices, that amongst them▪ they have destroyed 50000 English Sheepe about Mallow, and the black-water, besides al the Cattle, and what they could not de<g ref="char:EOLhyphen"/>vour
+<pb n="6" facs="tcp:156524:4"/> themselves, nor drive away, where the Karcasses most barbarously slaugh<g ref="char:EOLhyphen"/>tered, and left dead on the ground, where the karcasses ly stinking and infecting the ayre with their noisome smell. There are he sayth, at least 1000 men besides wo<g ref="char:EOLhyphen"/>men and children gotten into Bandon-Bridge, where 500 are compleatly armed, and fight bravely in their own defence. The Lord of Kinalmiaky is there himselfe, his Father and brother Dungarvan at Youghall, with al the strength they can make. The Lord of Kerry was faine to leave his Country, and is with my Lord President, so is sir Edward Denny, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Hardresse waller, and now Mountgarrat is retired, The L. President of Munster hath taken the Field againe with 500 Foote, and 100. Horse The Lord Roch (which is strange) holds in, so doth Muskey, though their tenants and followers are as bad as the worst. Limerick as is thought is rather awed by the Castle, where Captaine Courtney keepes then loyall of themselves. All the County of Clare is in Rebellion, where they pillage the Earle of Tom<g ref="char:EOLhyphen"/>monds English tenents under his nose, and he keepes himselfe in Bouratty Castle for feare▪ as is believed. Gallway is revolted, and attempted the Fort, but with losse. We have nothing since my last from Athlone. Waterford it selfe, we hope da<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s not now declare openly their disaffections, because the fort of Dun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annon that bridles them is relieved with 200 men, and al necessaries from Bristoll, as that gentleman reports, but all the County is out, &amp; have burnt Tallow and Cappagin, and utterly destroyed those plantations, in that the Devill himselfe set them all a gog utterly to roote out the Protestants.</p>
+            <p>Tredath was relieved a fortnight sin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, so as our Pale-men have given over the siege on this side, and betaken themselves to the other side beyond the River. Sir Henry Tichborne made 4 sallyes in 8 dayes, and every time burnt some Town or other, and got in prey: On Saturday last he fell upon al Mac Mahounes trenches, where he beat him out with litle or no losse, but killed many of the Rebels, he hath gayned a world of honor in that siege, and since he turned out many o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Towns<g ref="char:EOLhyphen"/>men, he sallies the more securely: the Earle of Ormond marcht into the Pale yesterday morning attended by sir Symon Harcourt, sir Thomas Lucas, and sir Rich. Greenfield with 3000 foot and 300 Horses. God send them well to doe, for now the Pole-men are put to that for their Capitall.</p>
+         </div>
+         <div type="account">
+            <head>March the eighth. 1641.</head>
+            <p>MY Lord President of your Province is closed in Athloune, yet so as now he, and young Charles Coote, 2. Kings, &amp; the Armslews out of the several holds do meet often, and have burnt and wasted al the Country between Athlomes, and Boyle, The Irish dare scarce look at them, they have taken the best Mac Donmot, killed the second and many others: sir Faidillo lies in garrison a Rebell with about 100 men in Athlone on this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de the water. Luke Dillon is variously reported: some say he is in, some out: William Malloyes sonne is either killed or taken, when our further succors come that we shal be able to march thither, they doubt not of quick worke in that Province.</p>
+         </div>
+         <div type="account">
+            <head>
+               <hi>From Myneherd the</hi> 11. <hi>of March.</hi> 1641.</head>
+            <p>HHere are very good newes, both from Youghall and Dublin, there arived a barque into our Harbour from Youghall Tuesday last, by whom we cer<g ref="char:EOLhyphen"/>tainely heareof the safe Arrivall there, of Sir Charles Vavasor with his 1000.
+<pb n="7" facs="tcp:156524:4"/> men, who with my Lord Presidents forces, which is about 1500. Horse and Foot, more have given the Irish many defeats, regained the Towne of Castle Dungar<g ref="char:EOLhyphen"/>ven, and put many to the sword, have taken great pillage there, burnt the greatest part of the towne, and all the Country betweene Corke and Younghall, &amp; in that way have flaine at least 7<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. or 800. men, and to this day keepe the field, and make the Irish flye before them, though innumerable in respect of them. The Lord of Kilmekey the Lord of Corks second Sonne, who kept the towne of Bandon, ha<g ref="char:EOLhyphen"/>ving notice of the approach of 2000. Rebells to beseige them, sallied out against them with 200. Foot, and 70. horse, slew dead in the place, 104, of them, besides many lay death wounded, tooke 40. which he hanged upon the towne walls, got from them 140, men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> armes and two wayne loads of provisions, and all this with<g ref="char:EOLhyphen"/>out the losse of one man.</p>
+            <p>My Lord Brouchall, my Lord of Corks third Sonne, who kept his Fathers house at Lismore was beseiged by 1500. Rebells: he brake out upon them, with 200 foote and a troope of Horse, killed 70. of them, hanged 20 upon the walls, put them to flight, tooke 300 Cattle from them, and much other provisions without the hurt of any one of his Soldiers.</p>
+            <p>The little Castle at Mallow in which were 16 men with their Muskets only, was besieged by the Lord Mountgarret, and the Lord Roch, with 2000 men, who defended themselves 30 houres, slew 160 of the Rebells with the losse of 4 of their men, and at last a breach being made in the wall, yielded up quarter to depart with their armies; There arrived here from Dublin yesterday a Barke which came from thence Saturday last, by whom there is certaine intelligence of 2000 foote and Horse landed there from Chester the first of this moneth, those Forces of ours which are there make the Irish run before them, And have destroyed thousands of them, so that now the hearts of the Rebells begin to quake, God send more supplies to second our forces there, and the Rebells wil bee quickly supprest.</p>
+            <p>It is conceived that quick and speedy dispatch will most of all advance the af<g ref="char:EOLhyphen"/>faires in Ireland, and that if a right course with celerity be pursued against the Rebels, the war cannot continue long▪ otherwise it may be spun out with danger and vast expenses of blood and treasure to an extreme length.</p>
+         </div>
+         <div type="account">
+            <head>The examination of Hubert Pettit taken before me the 19. day of February, by direction of the Right Honourable the Lords Iustices and Counsell.</head>
+            <p>WHo being sworne and examined saith; that at his this examinates, com<g ref="char:EOLhyphen"/>ming from the County of Westmeath, which was upon the 17 of this pre<g ref="char:EOLhyphen"/>sent February, there were of the gentlemen of the said County in Rebellion these following (viz) Walter Nugent of Rathaspeck, Robert Nugent, of Carlingstowne, Robert Nugent, Sonne unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames Nugent of Drumcree, who keepeth with his Father, Matthew Ledwitch of Ballinelach, Roger Darcy of Lisnel<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gle of Ballinecerkey Richard Dalton of Dralenstowne, Oliver Oge; O Brin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, all the Master Haughlius, and Master Gawneyes, Garret, Mr. Garret Geoghegan, Richard Ledwitch of Cappogh, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames Nugent of Coleamber, Edmund Tirrel son unto Ri<g ref="char:EOLhyphen"/>chard Tirell of Kilbride, made a Colonell, aad lately come out of the Low Coun<g ref="char:EOLhyphen"/>tries, Thomas Tirrell, Sonne unto Captaine Tirrell, And the said Captaine is re<g ref="char:EOLhyphen"/>ported
+<pb n="8" facs="tcp:156524:5"/> to be carried in a Kesh, unto the siedge of Bor with sundry of the Rebells. And likewise saith, that in Christmas Holidayes last▪ hee this examinat, saw a letter directed from the Lords of the Pale, to wit, the Lord of Fingall, The Lord of Gormanston, the Lord of Slane, the Lord of Dunsany, the Lord of Trimletstowne and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord of Lowth, unto the Right honourable the Earle of Westmeath, and the rest of the Lords and Gentry of the Countyes of Westmeath and Longford, the contents of which letter was, that they the said Lords of the Pale, expected from his Lordship, and the Gentlemen of Westmeath a thousand men to come unto the siedge of Drogheda and that if these thousand men had not beene delay<g ref="char:EOLhyphen"/>ed, they had taken the towne of Drogheda before that time, which letter was brought by one Father George Dillon a Franciscan Fryer, uncle unto the Lord of Costilloe; and the said Fryer having shewed the said Letter unto the Earle of Westmeath, and receiving his deniall of the demand, for his particular, the said Fryer tooke the letter, and went therewith as this E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aminat conceives, to fol<g ref="char:EOLhyphen"/>licite the rest of the said Country, and further saith, that as hee this examinat understood on the 11. of this instant February, Mullory O Rely, Robert Nugent, Fitz Iames of Drumcree with about twenty or thirty, in their company, in vio<g ref="char:EOLhyphen"/>lent manner rushed into the house and lodging chamber of the said Earle, and there the said parties would have had speech with the said E. but his Lordship not enduring the same, with discontent, fell into so great a passion and fit, as his Lord<g ref="char:EOLhyphen"/>ship hath beene ever since driven to keepe his bed: And this Examinat fur<g ref="char:EOLhyphen"/>ther saith, that on the 17. of this present, it was reported by Mr. Iohn Hop, unto the Earle of Westmeath, that Master Iames Cusack, of the Kings Counsell, for the defective Titles, and Master Nicholas Darcy of Plattin, were to bee sent into the said County of Westmeath, to make enquiry what persons within the said Coun<g ref="char:EOLhyphen"/>ty of Westmeath would not joyne in giving assistance unto the Lords and gentle<g ref="char:EOLhyphen"/>men now in Rebellion, to the end thereupon some severe course might be taken with such as so refused.</p>
+         </div>
+         <closer>
+            <signed>
+               <list>
+                  <item>Robert Meredith.</item>
+                  <item>Concordat cum Originali.</item>
+                  <item>Ex. per Paul Davis.</item>
+               </list>
+            </signed>
+         </closer>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
